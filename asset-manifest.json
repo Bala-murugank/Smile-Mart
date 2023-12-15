@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smile-mart/static/css/main.ab3a0a2b.css",
+    "main.js": "/smile-mart/static/js/main.50b32017.js",
+    "static/js/787.4f0751a1.chunk.js": "/smile-mart/static/js/787.4f0751a1.chunk.js",
+    "static/media/eCommarceLogo.png": "/smile-mart/static/media/eCommarceLogo.421cadf2054c66ac9155.png",
+    "index.html": "/smile-mart/index.html",
+    "main.ab3a0a2b.css.map": "/smile-mart/static/css/main.ab3a0a2b.css.map",
+    "main.50b32017.js.map": "/smile-mart/static/js/main.50b32017.js.map",
+    "787.4f0751a1.chunk.js.map": "/smile-mart/static/js/787.4f0751a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab3a0a2b.css",
+    "static/js/main.50b32017.js"
+  ]
+}
