@@ -1,0 +1,140 @@
+.cartItems{
+   height:400px;
+   width: 100%;
+   /* min-width: 290px; */
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   padding: 15px 0;
+   background: rgb(81,178,207);
+  background: linear-gradient(96deg, rgba(81,178,207,0.9150253851540616) 19%, rgba(172,185,208,1) 100%);
+  border-radius: 20px;
+  
+   
+
+}
+
+.cartItem-cartProduct-priceDetails{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    
+   
+}
+.bala{
+    width: 1000px;
+   margin-left: 10%;
+}
+
+
+.cartItems-img > img{
+    height: 250px;
+    width: 250px;
+}
+
+.cartItems-quantity{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  
+} 
+
+.cartItems-img-quantity{
+    min-width: 270px;
+    max-width: 40%;
+}
+.cartItems-quantity .form-control{
+   width: 60px;
+   background-color: none;
+}  
+
+
+.cartItem-Brand-start{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.product-title-delivery{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
+.cartItems-tiltle-description-price{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 50%;
+   
+  
+    
+}
+
+
+.cartItems-price {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   
+}
+.cartItems-price > div{
+    display: flex;
+    font-size: 10px;
+   
+}
+
+.cartItems-place-order button{
+    padding: 10px 50px 10px 50px;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f2761d;
+    color: white;
+    font-size: 1.3rem;
+}
+
+
+/* Price details css propertys*/
+
+.price-details{
+    background-color: palegoldenrod;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    justify-content: space-around;
+    padding: 30px;
+    border-radius: 20px;
+    margin-right: 10%;
+}
+.price-details > div{
+    border-bottom: 1px solid black;
+}
+.price-details-body{
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   font-size: 1.2rem;
+   
+}
+
+.price-details-body div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-details-total-price{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-top: 20px;
+    
+}
+
+    
+   
+

@@ -1,0 +1,42 @@
+.login-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.login-form{
+    height: 380px;
+    width: 700px;
+    display: flex;
+    padding: 10px;
+    box-shadow: 8px 24px 61px -3px rgba(0,0,0,0.1);
+   background-image: linear-gradient(to right bottom, #c66bd1, #9b8ef5, #66abff, #3ac2ff, #47d4f7, #54d8f3, #61dbf0, #6edeec, #5fd7f2, #57cff6, #57c6fa, #5fbcfb);
+   border-radius: 30px; 
+}
+
+.login-form-company-logo img{
+    width:300px;
+    height: 300px;
+    padding: 10px;
+   border-radius: 30px;
+}
+
+.login-form-inputs{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+   
+}
+
+.login-form-submit-button{
+ display: flex;
+ justify-content: center;
+}
+.login-form-inputs .form-label{
+    color: black;
+}
+
+.error-message{
+    color: red;
+}

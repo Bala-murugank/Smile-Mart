@@ -1,0 +1,13 @@
+.addEmployee{
+   position: relative;
+   left: 400px;
+}
+
+.error-message{
+   color: red;
+   font-weight: 500;
+   
+}
+label{
+   font-size: 1.3rem;
+}

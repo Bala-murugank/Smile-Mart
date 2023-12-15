@@ -1,0 +1,31 @@
+.carousel-display{
+  width: 90%;
+  position: relative;
+  left: 5%;
+   
+}
+.carousel-display img{
+    
+    height: 700px;
+    width: 100%;
+}
+
+
+@media (max-width:1173px ) {
+
+  .home-product-item{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+}
+
+@media (min-width:1000px)  {
+
+  .home-product-item{
+    display: flex;
+    justify-content: space-evenly;
+    
+  }
+  
+}

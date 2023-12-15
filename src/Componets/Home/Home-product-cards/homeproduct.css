@@ -1,0 +1,47 @@
+.cards_formats_head img{
+   
+   height: 230px;
+   width: 260px;
+   padding: 10px;
+   
+
+}
+
+.product_cards_formats {
+    display: flex;
+    width: 550px;
+    height: 270px;
+    box-shadow: -4px 1px 7px 0px rgba(0,0,0,0.75);
+    border-radius: 5px;
+    margin-left: 10px;
+   
+
+
+}
+
+.cards-formats-body {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 10px;
+   
+
+    
+}
+.cards-formats-footer{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   position: relative;
+   padding: 10px;
+   
+}
+
+
+
+
+
+ 
+
+
